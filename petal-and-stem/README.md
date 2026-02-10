@@ -61,6 +61,6 @@ The main goal of this lab is **server-side form validation using PHP** for multi
 - **Bootstrap 5** – Responsive design, grid system, spacing, and utility classes  
 - **Regular Expressions** – Validation for email, phone number, and other inputs  
 
-- GitHub: [hershagustin](https://github.com/hershagustin)
+## GitHub: [hershagustin](https://github.com/hershagustin)
 
 
