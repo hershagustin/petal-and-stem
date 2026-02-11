@@ -2,9 +2,9 @@
 
 ## Overview
 
-**petal & stem** is a web-based flower shop form application that generates custom quotes for floral arrangements.  
+**Petal & Stem** is a web-based flower shop form application project that generates custom quotes for floral arrangements.  
 
-The main goal of this lab is **server-side form validation using PHP** for multiple data types, without relying on HTML5 form validation attributes.  
+The main goal of this project is **server-side form validation using PHP** for multiple data types, without relying on HTML5 form validation attributes.  
 
 > **Important:** HTML5 validation attributes (`required`, `pattern`, `maxlength`, `email`, etc.) are intentionally **not used** to allow strict assessment of **back-end validation techniques**.
 
@@ -60,8 +60,3 @@ The main goal of this lab is **server-side form validation using PHP** for multi
 - **CSS3** – Custom styling and layout  
 - **Bootstrap 5** – Responsive design, grid system, spacing, and utility classes  
 - **Regular Expressions** – Validation for email, phone number, and other inputs  
-
-AUTHOR : 
-### Hershey Agustin
-
-
